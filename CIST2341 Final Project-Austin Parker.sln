@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIST2341 Final Project-Austin Parker", "CIST2341 Final Project-Austin Parker\CIST2341 Final Project-Austin Parker.csproj", "{93FBD180-DA25-48D2-B923-9021B64DA1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FBD180-DA25-48D2-B923-9021B64DA1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FBD180-DA25-48D2-B923-9021B64DA1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FBD180-DA25-48D2-B923-9021B64DA1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FBD180-DA25-48D2-B923-9021B64DA1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B3E41C-6957-4CFB-9379-1A849623AF3F}
+	EndGlobalSection
+EndGlobal
